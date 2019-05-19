@@ -1,5 +1,5 @@
 # erasmus-sds
-Erasmus SDS project 
+Erasmus SDS project - MVC (Model-View-Controler) 
 
 ## Roles and responsabilities
 - William (Product Owner) is responsible for:
@@ -17,7 +17,6 @@ Erasmus SDS project
   - Implementating the back-end of the project and the Data Base 
   - Integrate the different parts of the project
 
-  
 - Zeynep Endes (Development Team) is responsible for:
   - Implementating the front-end of the project 
   
@@ -25,7 +24,7 @@ Erasmus SDS project
   - Transpose the Learning Agreement document in to a digital format that uses HTML so that this document can be integrated in the remaining project
 
 ## Project Strategy 
-
+Our strategy to this project consists in an iterative approach, which means that for each Sprint we would define the Sprint goals and the strategies to achieve those goals. 
 
 ## Communication Stratagies
 Our Scrum Team will be using different strategies of comunication:
