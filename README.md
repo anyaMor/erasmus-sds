@@ -2,13 +2,13 @@
 Erasmus SDS project 
 
 ## Roles and responsabilities
--> William (Product Owner) is responsible for:
+- William (Product Owner) is responsible for:
   - Detailed description of what the Product Backlog will be 
   - Ordering the Product Backlog items
   - Ensuring every member of the Development Team understands the items in the Product Backlog
   - Ensuring that the Product Backlog is visible, transparent and clear to every member
   
--> Ânia Morgadinho (Scrum Master/Development Team) is responsible for:
+- Ânia Morgadinho (Scrum Master/Development Team) is responsible for:
   - Promoting and supporting Scrum 
   - Enable communication through all Team Members
   - Organize and schedule meetings (Sprint Planings, Weekly Scrum, Sprint Review and Sprint Retrospective)
@@ -18,10 +18,10 @@ Erasmus SDS project
   - Integrate the different parts of the project
 
   
--> Zeynep Endes (Development Team) is responsible for:
+- Zeynep Endes (Development Team) is responsible for:
   - Implementating the front-end of the project 
   
--> Yakup Gokyildiz (Development Team) is responsible for:
+- Yakup Gokyildiz (Development Team) is responsible for:
   - Transpose the Learning Agreement document in to a digital format that uses HTML so that this document can be integrated in the remaining project
 
 ## Project Strategy 
