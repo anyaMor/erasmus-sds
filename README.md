@@ -1,5 +1,5 @@
 # erasmus-sds
-Erasmus SDS project - MVC (Model-View-Controler) 
+Erasmus SDS project - MVC (Model-View-Controler) with C# (.net core), HTML, CSS, and SQLite.
 
 ## Roles and responsabilities
 - William (Product Owner) is responsible for:
