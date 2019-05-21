@@ -61,7 +61,7 @@ Here you should click on "Start your Learning Agreement" in order to start creat
     
 
 ## Development Work done so far (per each member of the Development Team)
-- Ânia Morgadinho
+- Ânia Morgadinho  (SDS.zip)
   - Creating the database (containing two tables, one for the courses and another for the faculties)
   - Filling the database with the information about the courses and faculties belonging to Politechnika Poznanska
   - Creating the MVC pattern 
@@ -70,8 +70,8 @@ Here you should click on "Start your Learning Agreement" in order to start creat
   - Integrating the HTML version of the Learning Agreement in the MVC pattern (which means filling the fiels with the information provided by the user)
 
 - Yakup Gokyildiz
-  - Transpose the Learning Agreement document in to a digital format that uses HTML so that this document can be integrated in the remaining project
+  - Transpose the Learning Agreement document in to a digital format that uses HTML so that this document can be integrated in the remaining project (index.html)
 
 - Zeynep Endes
-  - Creating of the design of the Application
+  - Creating the design of the Application (WebApplication10.rar, not yet integrated in the application)
 
