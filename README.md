@@ -49,6 +49,7 @@ After this is installed on your machine, you can simply go to our masters Reposi
 Once you have completed the previous step you have two different ways you can use to run the application:
   1. User has Visual Studio 2019 installed in his/hers machine
     If this is your case, you only need to open the SDS.sln file and then run SDS using Visual Studio.
+    
   2. User doesn't have Visual Studio 2019 installed in his/hers machine
     If this is your case, you can use the terminal to run the application. 
     You need to open the terminal/command line and move to the directory of the project (SDS/SDS/). 
