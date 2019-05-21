@@ -41,7 +41,7 @@ Our Scrum Team will be using different strategies of comunication:
   - GitHub as a way to ensure that every member has access to the different stages of the project
 
 ## Installation Manual
-In order to run our project one requirement needs to be fulfilld:
+In order to run our project one requirement needs to be fulfilled:
   - The user must have the version 2.2 of .Net Core installed (if that's not your case please install it through this link: https://dotnet.microsoft.com/download/dotnet-core/2.2)
 
 After this is installed on your machine, you can simply go to our masters Repository and proceed to download the SDS.zip file. After this you will have to extract the content of the zip file.
