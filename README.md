@@ -53,7 +53,7 @@ Once you have completed the previous step you have two different ways you can us
   2. User doesn't have Visual Studio 2019 installed in his/hers machine
     If this is your case, you can use the terminal to run the application. 
     You need to open the terminal/command line and move to the directory of the project (SDS/SDS/). 
-    Once you're in SDS/SDS you need to execute "dotnet run" command. After thhis step the server will be running and can be access through the use of a url.
+    Once you're in SDS/SDS you need to execute "dotnet run" command. After this step the server will be running and can be access through the use of a url.
     Open a web browser and paste one of the following urls: "https://localhost:5000/" or "https://localhost:5001/" to access the server.
     
 If you followed all the previous steps, you should now be in our Welcome page! 
