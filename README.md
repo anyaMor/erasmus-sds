@@ -1,5 +1,8 @@
 # erasmus-sds
-Erasmus SDS project - MVC (Model-View-Controler) with C# (.net core), HTML, CSS, and SQLite.
+This project consisted in building a Web Application that would allow Erasmus students to fill the Learning Agreement easily. 
+They'll be able to insert information on their own or choose from pre-programed one (which is the case of the faculties and courses from Politechnika Poznanska).
+We used an MVC pattern with C# (.net core 2.2), HTML, CSS, and SQLite as our database (where we store all the information regarding the courses, faculties and learning agreements).
+All this information can be found within the project.
 
 ## Roles and responsabilities
 - William (Product Owner) is responsible for:
@@ -34,6 +37,8 @@ Our Scrum Team will be using different strategies of comunication:
 
 ## Installation Manual
 
-## (what each member has done)
+
+## Development Work done so far
+
 
 
