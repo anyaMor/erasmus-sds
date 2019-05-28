@@ -68,10 +68,11 @@ Here you should click on "Start your Learning Agreement" in order to start creat
   - Creating various Views containing the forms used to receive the information that the user inputs into the system 
   - Creating the mechanism used by the user to access all the information regarding the courses and faculties
   - Integrating the HTML version of the Learning Agreement in the MVC pattern (which means filling the fields with the information provided by the user)
+  - Creating the desgn of the Application (Home page and Instructions page)
 
 - Yakup Gokyildiz
   - Transpose the Learning Agreement document in to a digital format that uses HTML so that this document can be integrated in the remaining project (index.html)
 
 - Zeynep Endes
-  - Creating the design of the Application (WebApplication10.rar, not yet integrated in the application)
+  - Creating the design of the forms (WebApplication10.rar, not yet integrated in the application)
 
