@@ -76,5 +76,5 @@ Here you should click on "Start your Learning Agreement" in order to start creat
   - Transpose the Learning Agreement document in to a digital format that uses HTML so that this document can be integrated in the remaining project (index.html)
 
 - Zeynep Endes
-  - Creating the design of the forms (WebApplication10.rar and sds_first_page.zip not yet integrated in the application)
+  - Creating the design of the forms (WebApplication10.rar, sds_first_page.zip and sds_threepage.zip not yet integrated in the application)
 
