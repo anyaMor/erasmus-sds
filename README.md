@@ -62,13 +62,15 @@ Here you should click on "Start your Learning Agreement" in order to start creat
 
 ## Development Work done so far (per each member of the Development Team)
 - Ânia Morgadinho  (SDS.zip)
-  - Creating the database (containing two tables, one for the courses and another for the faculties)
+  - Creating the database (containing four tables, one for the courses, one for the faculties, one for the comments and one for the learning agreements-previously filled out)
   - Filling the database with the information about the courses and faculties belonging to Politechnika Poznanska
   - Creating the MVC pattern 
   - Creating various Views containing the forms used to receive the information that the user inputs into the system 
   - Creating the mechanism used by the user to access all the information regarding the courses and faculties
   - Integrating the HTML version of the Learning Agreement in the MVC pattern (which means filling the fields with the information provided by the user)
-  - Creating the design of the Application (Home page and Instructions page)
+  - Creating the design of the Application 
+  - Creating the Home Page View, Instructions View, Learning Agreement related Views ("Erasmus1", "Erasmus2", "Erasmus3"), Comments related Views ("Comment" and "CommentCourse") and seed functionality related Views ("SavedLearningAgreement","LoadLearningAgreement", "FailedLoadSeed") allong with their controllers.
+  - Testing the application
 
 - Yakup Gokyildiz
   - Transpose the Learning Agreement document in to a digital format that uses HTML so that this document can be integrated in the remaining project (index.html)
