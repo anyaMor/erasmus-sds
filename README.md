@@ -71,11 +71,11 @@ Here you should click on "Start your Learning Agreement" in order to start creat
   - Creating the design of the Application 
   - Creating the Home Page View, Instructions View, Learning Agreement related Views ("Erasmus1", "Erasmus2", "Erasmus3"), Comments related Views ("Comment" and "CommentCourse") and seed functionality related Views ("SavedLearningAgreement","LoadLearningAgreement", "FailedLoadSeed") allong with their controllers.
   - Testing the application
-  - Integrating the
+  - Integrating the the_last_version_of_thefirst_three_pages (layout of the Learning Agreement forms) in the MVC pattern
 
 - Yakup Gokyildiz
   - Transpose the Learning Agreement document in to a digital format that uses HTML so that this document can be integrated in the remaining project (index.html)
 
 - Zeynep Endes
-  - Creating the design of the forms (WebApplication10.rar, sds_first_page.zip and sds_threepage.zip not yet integrated in the application)
-
+  - Creating several layouts of the Learning Agreement forms (WebApplication10.rar, sds_first_page.zip and sds_threepage.zip, not integrated in the application)
+  - Creating the final layout of the Learning Agreement forms (the_last_version_of_thefirst_three_pages.zip, integrated with the application)
